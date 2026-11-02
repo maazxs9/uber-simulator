@@ -9,15 +9,6 @@ Features
 - Collects statistics about simulation activity.
 
 ## Files
-simulation.py	Runs the simulation and processes events.
-dispatcher.py	Coordinates drivers and ride requests.
-event.py	Defines ride requests, pickups, cancellations, and drop-offs.
-driver.py	Models drivers and their behaviour.
-rider.py	Models riders and their requests.
-location.py	Represents locations and calculates distances.
-container.py	Implements the priority queue.
-monitor.py	Tracks activity and reports statistics.
-events.txt	Provides sample simulation events.
 Python module names are preserved so existing imports continue to work.
 
 ## Background
