@@ -1,0 +1,9 @@
+# random timestamps
+
+20 RiderRequest Eggshell 3,4 3,1 1
+10 RiderRequest Bisque 3,2 2,3 5
+15 RiderRequest Desert 5,1 4,3 5
+
+5 DriverRequest Bergamot 1,2 1
+25 DriverRequest Crocus 3,1 1
+7 DriverRequest Foxglove 5,2 1
